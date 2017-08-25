@@ -1,0 +1,10 @@
+D:\dotnet\test\Abc.EFCore\bin\Debug\netcoreapp1.1\Abc.EFCore.deps.json
+D:\dotnet\test\Abc.EFCore\bin\Debug\netcoreapp1.1\Abc.EFCore.runtimeconfig.json
+D:\dotnet\test\Abc.EFCore\bin\Debug\netcoreapp1.1\Abc.EFCore.runtimeconfig.dev.json
+D:\dotnet\test\Abc.EFCore\bin\Debug\netcoreapp1.1\Abc.EFCore.dll
+D:\dotnet\test\Abc.EFCore\bin\Debug\netcoreapp1.1\Abc.EFCore.pdb
+D:\dotnet\test\Abc.EFCore\obj\Debug\netcoreapp1.1\Abc.EFCore.AssemblyInfo.cs
+D:\dotnet\test\Abc.EFCore\obj\Debug\netcoreapp1.1\Abc.EFCore.dll
+D:\dotnet\test\Abc.EFCore\obj\Debug\netcoreapp1.1\Abc.EFCore.pdb
+D:\dotnet\test\Abc.EFCore\obj\Debug\netcoreapp1.1\Abc.EFCore.csproj.CoreCompileInputs.cache
+D:\dotnet\test\Abc.EFCore\obj\Debug\netcoreapp1.1\Abc.EFCore.AssemblyInfoInputs.cache
