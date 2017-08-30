@@ -12598,11 +12598,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\dotnet\\test\\samplewebapp\\samplewebapp.csproj",
+      "projectUniqueName": "D:\\dotnet\\test\\samplewebapp\\samplewebapp.csproj",
       "projectName": "samplewebapp",
-      "projectPath": "d:\\dotnet\\test\\samplewebapp\\samplewebapp.csproj",
+      "projectPath": "D:\\dotnet\\test\\samplewebapp\\samplewebapp.csproj",
       "packagesPath": "C:\\Users\\skhyaju\\.nuget\\packages\\",
-      "outputPath": "d:\\dotnet\\test\\samplewebapp\\obj\\",
+      "outputPath": "D:\\dotnet\\test\\samplewebapp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
