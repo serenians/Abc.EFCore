@@ -2,6 +2,20 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.0": {
+      "BundlerMinifier.Core/2.4.337": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.App": "1.1.0",
+          "NUglify": "1.5.5",
+          "Newtonsoft.Json": "9.0.1"
+        },
+        "compile": {
+          "lib/netcoreapp1.0/dotnet-bundle.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp1.0/dotnet-bundle.dll": {}
+        }
+      },
       "Libuv/1.10.0": {
         "type": "package",
         "dependencies": {
@@ -2735,6 +2749,19 @@
           "lib/netstandard1.3/Newtonsoft.Json.Bson.dll": {}
         }
       },
+      "NUglify/1.5.5": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.0",
+          "System.Security.Cryptography.Algorithms": "4.2.0"
+        },
+        "compile": {
+          "lib/netstandard1.3/NUglify.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/NUglify.dll": {}
+        }
+      },
       "Remotion.Linq/2.1.1": {
         "type": "package",
         "dependencies": {
@@ -4750,6 +4777,20 @@
     }
   },
   "libraries": {
+    "BundlerMinifier.Core/2.4.337": {
+      "sha512": "dJrgItLLzsp7qWeTYDieGhVIPZU2KRwUwOlQq+UakqSHieMnbZocscfy29ZFwzTUrNUjmr/G94ej5wVLcCGrgQ==",
+      "type": "package",
+      "path": "bundlerminifier.core/2.4.337",
+      "files": [
+        "bundlerminifier.core.2.4.337.nupkg.sha512",
+        "bundlerminifier.core.nuspec",
+        "lib/net452/dotnet-bundle.exe",
+        "lib/net452/dotnet-bundle.runtimeconfig.json",
+        "lib/netcoreapp1.0/dotnet-bundle.dll",
+        "lib/netcoreapp1.0/dotnet-bundle.runtimeconfig.json",
+        "prefercliruntime"
+      ]
+    },
     "Libuv/1.10.0": {
       "sha512": "GsCf4q+eyaI49rCPlgYxdxa1SQCysXFFdSJWdstrwxytg4+VPYLYrXD4AT2rjHVJ+UF7SSWX9CapWEYaU4ejVQ==",
       "type": "package",
@@ -7555,6 +7596,21 @@
         "lib/netstandard1.3/Newtonsoft.Json.Bson.xml",
         "newtonsoft.json.bson.1.0.1.nupkg.sha512",
         "newtonsoft.json.bson.nuspec"
+      ]
+    },
+    "NUglify/1.5.5": {
+      "sha512": "XguQgUPUHMOmfOGlSgVRHIMVBJYz86cViTP8kiD1Oa4EKKUrvfL4a4BhWUxdg5rZBLrIAcoYu/V43F5iH/PucA==",
+      "type": "package",
+      "path": "nuglify/1.5.5",
+      "files": [
+        "lib/net35/NUglify.dll",
+        "lib/net35/NUglify.xml",
+        "lib/net40/NUglify.dll",
+        "lib/net40/NUglify.xml",
+        "lib/netstandard1.3/NUglify.dll",
+        "lib/netstandard1.3/NUglify.xml",
+        "nuglify.1.5.5.nupkg.sha512",
+        "nuglify.nuspec"
       ]
     },
     "Remotion.Linq/2.1.1": {
@@ -12528,6 +12584,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "BundlerMinifier.Core >= 2.4.337",
       "Microsoft.AspNetCore.All >= 2.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 2.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.0.0",
@@ -12541,11 +12598,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnet\\test\\samplewebapp\\samplewebapp.csproj",
+      "projectUniqueName": "d:\\dotnet\\test\\samplewebapp\\samplewebapp.csproj",
       "projectName": "samplewebapp",
-      "projectPath": "D:\\dotnet\\test\\samplewebapp\\samplewebapp.csproj",
+      "projectPath": "d:\\dotnet\\test\\samplewebapp\\samplewebapp.csproj",
       "packagesPath": "C:\\Users\\skhyaju\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnet\\test\\samplewebapp\\obj\\",
+      "outputPath": "d:\\dotnet\\test\\samplewebapp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12577,6 +12634,10 @@
             "target": "Package",
             "version": "2.0.0",
             "autoReferenced": true
+          },
+          "BundlerMinifier.Core": {
+            "target": "Package",
+            "version": "2.4.337"
           },
           "Microsoft.AspNetCore.All": {
             "target": "Package",
