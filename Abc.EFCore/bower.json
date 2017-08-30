@@ -1,0 +1,20 @@
+{
+  "name": "bower_init",
+  "homepage": "https://github.com/serenians/Abc.EFCore",
+  "authors": [
+    "Sagar Khyaju <serenians@gmail.com>"
+  ],
+  "description": "\"asdads\"",
+  "main": "bower.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

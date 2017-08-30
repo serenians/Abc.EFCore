@@ -1,0 +1,10 @@
+D:\dotnet\samplewebapp\bin\Debug\netcoreapp2.0\samplewebapp.deps.json
+D:\dotnet\samplewebapp\bin\Debug\netcoreapp2.0\samplewebapp.runtimeconfig.json
+D:\dotnet\samplewebapp\bin\Debug\netcoreapp2.0\samplewebapp.runtimeconfig.dev.json
+D:\dotnet\samplewebapp\bin\Debug\netcoreapp2.0\samplewebapp.dll
+D:\dotnet\samplewebapp\bin\Debug\netcoreapp2.0\samplewebapp.pdb
+D:\dotnet\samplewebapp\obj\Debug\netcoreapp2.0\samplewebapp.csproj.CoreCompileInputs.cache
+D:\dotnet\samplewebapp\obj\Debug\netcoreapp2.0\samplewebapp.AssemblyInfoInputs.cache
+D:\dotnet\samplewebapp\obj\Debug\netcoreapp2.0\samplewebapp.AssemblyInfo.cs
+D:\dotnet\samplewebapp\obj\Debug\netcoreapp2.0\samplewebapp.dll
+D:\dotnet\samplewebapp\obj\Debug\netcoreapp2.0\samplewebapp.pdb
