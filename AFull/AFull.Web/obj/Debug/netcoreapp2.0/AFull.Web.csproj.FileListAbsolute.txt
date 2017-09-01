@@ -1,0 +1,12 @@
+D:\dotnet\test\AFull\AFull.Web\bin\Debug\netcoreapp2.0\AFull.Web.deps.json
+D:\dotnet\test\AFull\AFull.Web\bin\Debug\netcoreapp2.0\AFull.Web.runtimeconfig.json
+D:\dotnet\test\AFull\AFull.Web\bin\Debug\netcoreapp2.0\AFull.Web.runtimeconfig.dev.json
+D:\dotnet\test\AFull\AFull.Web\bin\Debug\netcoreapp2.0\AFull.Web.dll
+D:\dotnet\test\AFull\AFull.Web\bin\Debug\netcoreapp2.0\AFull.Web.pdb
+D:\dotnet\test\AFull\AFull.Web\bin\Debug\netcoreapp2.0\AFull.Data.dll
+D:\dotnet\test\AFull\AFull.Web\bin\Debug\netcoreapp2.0\AFull.Data.pdb
+D:\dotnet\test\AFull\AFull.Web\obj\Debug\netcoreapp2.0\AFull.Web.csproj.CoreCompileInputs.cache
+D:\dotnet\test\AFull\AFull.Web\obj\Debug\netcoreapp2.0\AFull.Web.AssemblyInfoInputs.cache
+D:\dotnet\test\AFull\AFull.Web\obj\Debug\netcoreapp2.0\AFull.Web.AssemblyInfo.cs
+D:\dotnet\test\AFull\AFull.Web\obj\Debug\netcoreapp2.0\AFull.Web.dll
+D:\dotnet\test\AFull\AFull.Web\obj\Debug\netcoreapp2.0\AFull.Web.pdb
